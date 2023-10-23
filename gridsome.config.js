@@ -23,7 +23,7 @@ module.exports = {
       }
     },
     {
-      use: `gridsome-plugin-decap-cms`,
+      use: `gridsome-plugin-netlify-cms`,
       options: {
         publicPath: `/admin`
       }
